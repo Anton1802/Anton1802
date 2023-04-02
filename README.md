@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 - 🔭 I’m currently working on over projects in the repositories
 - 🌱 I’m currently learning programming languages and frameworks
 - 👯 I’m looking to collaborate on single project
