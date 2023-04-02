@@ -7,5 +7,5 @@
 - 📫 How to reach me: my hobby
 - ⚡ Fun fact: I am the only programmer in the family =)
 ### Contacts
-- Telegram: @pacslif
-- Вконтакте: @2pac99
+- Telegram: [@pacslif](https://t.me/pacslif)
+- Вконтакте: [@2pac99](https://vk.com/2pac99)
