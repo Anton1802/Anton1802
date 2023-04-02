@@ -6,3 +6,6 @@
 - 💬 Ask me about in co-development
 - 📫 How to reach me: my hobby
 - ⚡ Fun fact: I am the only programmer in the family =)
+### Contacts
+- Telegram: @pacslif
+- Вконтакте: @2pac99
