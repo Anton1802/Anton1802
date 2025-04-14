@@ -7,4 +7,4 @@
 - 📫 How to reach me: in contacts at the bottom
 - ⚡ Fun fact: I am the only programmer in the family =)
 ### Contacts :phone:
-- Telegram: [@pacslif](https://t.me/dev316)
+- Telegram: [@dev316](https://t.me/dev316)
